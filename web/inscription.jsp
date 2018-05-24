@@ -28,52 +28,52 @@
                 <div class="row">
                     <div class="input-field col s6">
                         <i class="material-icons prefix">person</i>
-                        <input id="nom" type="text" class="validate" required="required">
+                        <input id="nom" type="text" required="required">
                         <label for="nom">Nom</label>
                     </div>  
                     <div class="input-field col s6">
                         <i class="material-icons prefix">person</i>
-                        <input id="prenom" type="text" class="validate" required="required">
+                        <input id="prenom" type="text" required="required">
                         <label for="prenom">Prenom</label>
                     </div>
                     <div class="input-field col s6">
                         <i class="material-icons prefix">vpn_key</i>
-                        <input id="matricule" type="text" class="validate" required="required">
+                        <input id="matricule" type="text" required="required">
                         <label for="matricule">Matricule</label>
                     </div>
                     <div class="input-field col s6">
                         <i class="material-icons prefix">school</i>
-                        <input id="classe" type="text" class="validate" required="required">
+                        <input id="classe" type="text" required="required">
                         <label for="classe">Classe</label>
                     </div>
                     <div class="input-field col s6">
                         <i class="material-icons prefix">date_range</i>
-                        <input id="date" type="date" class="validate" required="required">
+                        <input id="date" type="date" required="required">
                         <label for="date">Date de naissance</label>
                     </div>
                     <div class="input-field col s6">
                         <i class="material-icons prefix">home</i>
-                        <input id="lieu" type="text" class="validate" required="required">
+                        <input id="lieu" type="text"required="required">
                         <label for="lieu">Lieu de naissance</label>
                     </div>
                     <div class="input-field col s6">
                         <i class="material-icons prefix">email</i>
-                        <input id="mail" type="email" class="validate" required="required">
+                        <input id="mail" type="email"required="required">
                         <label for="mail">Email</label>
                     </div>
                     <div class="input-field col s6">
                         <i class="material-icons prefix">phone</i>
-                        <input id="telephone" type="tel" class="validate" required="required">
+                        <input id="telephone" type="tel"required="required">
                         <label for="telephone">Telephone</label>
                     </div>
                     <div class="input-field col s6">
                         <i class="material-icons prefix">date_range</i>
-                        <input id="an" type="text" class="validate" required="required">
+                        <input id="an" type="text" required="required">
                         <label for="an">Année-Académique</label>
                     </div>
                     <div class="input-field col s6">
                         <i class="material-icons prefix">attach_money</i>
-                        <input id="versement" type="text" class="validate" required="required">
+                        <input id="versement" type="text" required="required">
                         <label for="versement">Versement</label>
                     </div>
                 </div>
