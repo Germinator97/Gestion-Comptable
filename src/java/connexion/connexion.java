@@ -17,7 +17,7 @@ public class connexion {
     private final String pwd;
     
     public connexion() {
-        this.url = "jdbc:mysql://localhost:3309/db";
+        this.url = "jdbc:mysql://localhost:3306/comptabilite";
         this.user = "root";
         this.driver = "com.mysql.jdbc.Driver";
         this.pwd = "";

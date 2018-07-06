@@ -17,4 +17,6 @@
 <link type="text/css" rel="stylesheet" href="Materialize/css/materialize.css"  media="screen,projection"/>
 <!-- Fin -->
 
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.10/angular.min.js"></script>
+
 <script defer src="fontawesome-free-5.0.9/svg-with-js/js/fontawesome-all.js"></script>

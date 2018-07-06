@@ -13,16 +13,14 @@
         <div class="row">
             <div class="col l6 s12">
                 <h4 class="white-text"><i class="material-icons prefix">book</i>  Gestion Comptable</h4>
-                <p class="grey-text text-lighten-4">Mon texte.</p>
             </div>
             <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Menu</h5>
                 <ul>
                     <li><a class="grey-text text-lighten-3" href="index.jsp">Acceuil</a></li>
-                    <li><a class="grey-text text-lighten-3" href="comptabilite.jsp">Compatbilité</a></li>
-                    <li><a class="grey-text text-lighten-3" href="commande.jsp">Commande</a></li>
-                    <li><a class="grey-text text-lighten-3" href="inscription.jsp">Inscription</a></li>
-                    <li><a class="grey-text text-lighten-3" href="stocks.jsp">Stocks</a></li>
+                    <li><a class="grey-text text-lighten-3" href="loginEnregistrements.jsp">Enregistrements</a></li>
+                    <li><a class="grey-text text-lighten-3" href="liste.jsp">Listes</a></li>
+                    <li><a class="grey-text text-lighten-3" href="loginCompte.jsp">Utilisateurs</a></li>
                 </ul>
             </div>
         </div>
